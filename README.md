@@ -4,4 +4,6 @@
 
 ---
 
-> from principles import decisions
+```python
+from principles import decisions
+```
