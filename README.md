@@ -4,6 +4,11 @@
 
 ---
 
+<div align="center">
+
 ```python
 from principles import decisions
 ```
+
+</div>
+
