@@ -4,4 +4,4 @@
 
 ---
 
-> from principles emerge decisions
+> from principles import decisions
